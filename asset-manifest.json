@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/Hw-7-react-prohject/static/css/main.c7ec3132.css",
-    "main.js": "/github.io/Hw-7-react-prohject/static/js/main.c2d3e941.js",
-    "index.html": "/github.io/Hw-7-react-prohject/index.html",
-    "main.c7ec3132.css.map": "/github.io/Hw-7-react-prohject/static/css/main.c7ec3132.css.map",
-    "main.c2d3e941.js.map": "/github.io/Hw-7-react-prohject/static/js/main.c2d3e941.js.map"
+    "main.css": "/Hw-7-react-project/static/css/main.c7ec3132.css",
+    "main.js": "/Hw-7-react-project/static/js/main.33c863c2.js",
+    "index.html": "/Hw-7-react-project/index.html",
+    "main.c7ec3132.css.map": "/Hw-7-react-project/static/css/main.c7ec3132.css.map",
+    "main.33c863c2.js.map": "/Hw-7-react-project/static/js/main.33c863c2.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.c2d3e941.js"
+    "static/js/main.33c863c2.js"
   ]
 }
